@@ -1,5 +1,5 @@
-from minitorch.tensor import Tensor, Dependency
-from minitorch.utils import Functions, register
+from microtorch.tensor import Tensor, Dependency
+from microtorch.utils import Functions, register
 import numpy as np
 
 

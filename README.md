@@ -1,10 +1,10 @@
-# minitorch
+# microtorch
 
-Miniversion of Pytorch for practice purposes.
+Microversion of Pytorch for practice purposes.
 
 A lot of the code for the autograd portion of this repo comes from [autograd](https://github.com/joelgrus/autograd), written by Joel Gruss.
 
-I have added a number of functionalities: Modules, Optimizers, etc. Also, I feel like things are better organised here!
+I have added a number of functionalities: Modules, Optimizers, etc.
 
 # Usage
 

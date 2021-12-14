@@ -1,7 +1,7 @@
 from typing import Callable, NamedTuple
 import numpy as np
 
-from minitorch.utils import AutogradError, Functions, NoGradError, InplaceOpError
+from microtorch.utils import AutogradError, Functions, NoGradError, InplaceOpError
 
 
 class Dependency(NamedTuple):

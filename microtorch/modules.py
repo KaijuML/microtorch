@@ -1,4 +1,4 @@
-from minitorch.tensor import Tensor
+from microtorch.tensor import Tensor
 import numpy as np
 
 
